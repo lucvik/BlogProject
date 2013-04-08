@@ -25,7 +25,7 @@ public class MainClass {
 			
 			BlogAuthor a3 = new BlogAuthor();
 			a3.name = "Assar Khamid";
-			a3.age = 23;
+			a3.age = 24;
 			author.add(a3);
 		
 		List <BlogCategory> categoryList = new ArrayList<BlogCategory>();
